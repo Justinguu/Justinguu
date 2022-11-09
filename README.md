@@ -2,7 +2,7 @@
 
 
 # Profile
-- 👋 Hi, I’m @Justinguu
+- 👋 Hi, I’m Jung Gu aka Justin Gu
 
 
 # 💫 About Me:
