@@ -8,7 +8,7 @@
 # 💫 About Me:
 🏫 I am a recent graduate of App Academy currently looking for opportunities to expand my knowledge in the Tech World!
 <br><br>
-💞️ I’m looking to collaborate on creating more full stack projects with other devs
+🙌 I’m looking to collaborate on creating more full stack projects with other devs
 <br><br>
 😃 I enjoy snowboarding, playing video games, and watching anime.
 <br><br>
