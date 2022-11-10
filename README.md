@@ -2,7 +2,7 @@
 
 
 # Profile
-- 👋 Hi, I’m Jung Gu aka Justin Gu
+ 👋 Hi, I’m Jung Gu aka Justin Gu
 
 
 # 💫 About Me:
@@ -10,7 +10,7 @@
 <br><br>
 🙌 I’m looking to collaborate on creating more full stack projects with other devs
 <br><br>
-😃 I enjoy snowboarding, playing video games, and watching anime.
+👨‍💻 Currently working on advancing my knowledge with more python frame works
 <br><br>
 
 
@@ -27,8 +27,3 @@
 
 
 ---
-
-<!---
-Justinguu/Justinguu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
