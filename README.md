@@ -12,8 +12,6 @@
 <br><br>
 👨‍💻 Currently expanding my knowledge with TypeScript && Swift
 <br><br>
-:e-mail: Feel free to ask me a question justinguuu@gmail.com
-<br><br>
 👨 Hobbies:
 🎧 Music
 🏋️‍♂️ Weightlifting
@@ -22,6 +20,7 @@
 :swimmer: Swimming
 🍿 Film
 <br><br>
+:e-mail: Message me justinguuu@gmail.com
 
 
 ## 🌐 Socials:
