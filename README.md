@@ -2,15 +2,14 @@
 
 
 # Profile
- 👋 Hi, I’m Jung Gu aka Justin Gu
-
+👋 Hi there, I'm Jung Gu, also known as Justin Gu. Nice to meet you!
 
 # 💫 About Me:
-🏫 I am a recent graduate of App Academy, excited to contribute the skills I have learned in the Tech World!!!
+🎓 App Academy graduate eager to apply my tech skills to real-world projects!
 <br><br>
-🙌 I’m always looking to collaborate on creating more full stack projects with other devs
+🤝 I'm passionate about collaborating with other developers to build full-stack applications.
 <br><br>
-👨‍💻 Currently expanding my knowledge with TypeScript && Swift
+💻 Currently exploring TypeScript and Swift to expand my knowledge.
 <br><br>
 👨 Hobbies:
 🎧 Music
@@ -20,7 +19,7 @@
 :swimmer: Swimming
 🍿 Film
 <br><br>
-:e-mail: Message me justinguuu@gmail.com
+📩 Feel free to drop me a message at justinguuu@gmail.com!
 
 
 ## 🌐 Socials:
