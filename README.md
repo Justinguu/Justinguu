@@ -12,8 +12,6 @@ Due to the majority of my work being conducted via an enterprise GitHub account,
 <br><br>
 🤝 I'm passionate about collaborating with other developers to build full-stack applications.
 <br><br>
-💻 Currently exploring TypeScript and Swift to expand my knowledge.
-<br><br>
 👨 Hobbies:
 🎧 Music
 🏋️‍♂️ Weightlifting
