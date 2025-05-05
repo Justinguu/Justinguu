@@ -5,7 +5,7 @@
 👋 Hi there, I'm Jung Gu, also known as Justin Gu. Nice to meet you!
 
 # To Whom it may concern
-Due to the majority of my work being conducted via an enterprise GitHub account, there are fewer commits on this personal account. Please contact me via email for any questions.
+Due to the majority of my work being conducted via an enterprise GitHub account, there are fewer commits on this personal account. Please contact me via email for any questions for a snapshot of my git frequency.
 
 # 💫 About Me:
 🎓 App Academy graduate eager to apply my tech skills to real-world projects!
